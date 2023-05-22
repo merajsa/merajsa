@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/merajsa/merajsa/blob/main/Untitled%20design%20(3).png)
 <!--
 **merajsa/merajsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
