@@ -1,5 +1,5 @@
 
-![logo](https://github.com/merajsa/merajsa/blob/main/Untitled%20design%20(3).png)
+
 <!--
 **merajsa/merajsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Md Meraj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
@@ -32,6 +33,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=merajsa&show_icons=true&locale=en&layout=compact" alt="merajsa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merajsa&show_icons=true&locale=en" alt="merajsa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merajsa&" alt="merajsa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merajsa&show_icons=true&locale=en" alt="m
